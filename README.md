@@ -10,7 +10,7 @@ Entre as principais qualidades desse banco de dados estão: escalabilidade, tole
 
 | Nome          | Link                                                                                       |
 | --------------| ------------------------------------------------------------------------------------------ |
-| Apresentação  | [Clique aqui ➡️](https://docs.google.com/presentation/d/1Suo7rZPbmUO8j9_nxRE5gz7pce7KE6G1NwA5L8xIbJE/edit?usp=sharing) |
+| Slide | [Clique aqui ➡️](https://docs.google.com/presentation/d/1Suo7rZPbmUO8j9_nxRE5gz7pce7KE6G1NwA5L8xIbJE/edit?usp=sharing) |
 | Relatório     | [Clique aqui ➡️](https://docs.google.com/document/d/1fVM7FfGR1u8vzKUkOagT3EWPRazIhfr6O44SpWtaWX0/edit?usp=sharing)                                                        |
 
 
@@ -19,3 +19,4 @@ Entre as principais qualidades desse banco de dados estão: escalabilidade, tole
 | Nome                             | Link                                                  |
 | -------------------------------- | ----------------------------------------------------  |
 | Instalação do Cassandra usando Docker | [Clique aqui ➡️](docs/tutorial-cassandra.md)     |
+| Implementação do Cassandra na Prática | [Clique aqui ➡️](docs/implementacao-pratica.md)     |
