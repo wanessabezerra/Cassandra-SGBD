@@ -1,7 +1,7 @@
 <h1>Instalação do Cassandra usando docker</h1>
 
 
-#### 1: Realizar docker pull cassandra
+#### 1: Docker pull cassandra
 
 ```bash
 $ sudo docker pull cassandra:latest
