@@ -18,4 +18,4 @@ Entre as principais qualidades desse banco de dados estão: escalabilidade, tole
 
 | Nome                             | Link                                                  |
 | -------------------------------- | ----------------------------------------------------  |
-| Instalação do Cassandra usando Docker | [Clique aqui ➡️](tutorial-cassandra.md)         |
+| Instalação do Cassandra usando Docker | [Clique aqui ➡️](docs/tutorial-cassandra.md)     |
