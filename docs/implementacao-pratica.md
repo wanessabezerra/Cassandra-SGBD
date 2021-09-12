@@ -80,3 +80,8 @@ SELECT WRITETIME (firstname)
 FROM demo.users
 WHERE lastname = 'Pedro';
 ```
+
+---
+
+<p align="center"><strong>👁️ Cassandra NoSQL<strong></p>
+ 
