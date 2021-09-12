@@ -1,6 +1,5 @@
 <h1>Instalação do Cassandra usando docker</h1>
 
-<h2>Instalação do ambiente</h2>
 
 #### 1: Realizar docker pull cassandra
 
