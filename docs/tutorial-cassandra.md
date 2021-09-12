@@ -37,3 +37,6 @@ cqlsh
 Em seguida temos o link de um exemplo prático:
 
 Implementação do Cassandra [Clique aqui ➡️](implementacao-pratica.md)
+
+---
+<p align="center"><strong>👁️ Cassandra NoSQL<strong></p>
