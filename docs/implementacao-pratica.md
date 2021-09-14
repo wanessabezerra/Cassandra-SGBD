@@ -9,8 +9,6 @@
 - [4: Como fazer selects](#4-como-fazer-selects)
 - [5: Como fazer queries](#5-como-fazer-queries)
 
-<h3>How to run this application with virtualenv</h3>
-
 #### 1: Como criar uma keyspace
 
 Para criar uma keyspace, primeiro executa-se o comando:  
